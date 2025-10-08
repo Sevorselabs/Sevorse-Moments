@@ -1,0 +1,23 @@
+{
+  "name": "sevorse-moments",
+  "version": "1.0.0",
+  "description": "The ultimate AI-powered Digital Album webapp with GSAP animations",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "dev": "npx http-server -p 8080 -o",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "digital-album",
+    "gsap",
+    "animations",
+    "ai-powered",
+    "photo-gallery"
+  ],
+  "author": "Sevorselabs",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.13.0"
+  }
+}
